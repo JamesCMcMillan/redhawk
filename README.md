@@ -1,0 +1,2 @@
+The project is a simple SMS (text message) based service for determining the location of a small fleet of shuttles that my campus operated. In response to a user's SMS of "redhawk [route]", the service would reply with a response or responses to the effect of "Bus N is [near/approaching/departing from] [location]."
+The code in django_cron IS NOT MY CODE, but a library that I used for cron jobs in Django.
